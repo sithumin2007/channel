@@ -1,0 +1,417 @@
+#EXTM3U
+#EXTINF:0 ,MRTV_4
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:0 ,Channel 7
+https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:241 ,Channel K
+https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+#EXTINF:0 ,Fortune
+http://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/playlist.m3u8
+#EXTINF:0 ,Mahar
+https://live.mahar.tv/channel/mahar-web.smil/chunklist_w1754772071_b800000.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDg6NTI6NDAgQU0maGFzaF92YWx1ZT15SDdYYW1JWldRb05SVVM3a1l6ZERnPT0mdmFsaWRtaW51dGVzPTEmaWQ9NQ%3D%3D
+#EXTINF:0 ,MNTV
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:0 ,Cookies Asia
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:0 ,Maharbawdi
+https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1,mntv 
+http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
+#EXTINF:-1,Mizzima TV
+https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDIwIDk6MDE6MDAgQU0maGFzaF92YWx1ZT1HenlIMUdHL1MxY1J4NjJjemROMG5BPT0mdmFsaWRtaW51dGVzPTI1JnN0cm1fbGVuPTMx
+#EXTINF:-1,,ANTV
+http://210.210.155.35/session/c8c106d6-beca-11ea-aa3d-8652b120e626/qwr9ew/s/s07/index.m3u8
+#EXTINF:-1,DVB
+https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/playlist.m3u8
+#EXTINF:-1,MWD 
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1,MWD Variety 
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+#EXTINF:-1,Movie HD
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+#EXTINF:-1,Docmen HD
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1,Serie HD 
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+#EXTINF:-1,Shopping HD
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+#EXTINF:-1,Family HD
+http://203.81.84.130/hls/mwd_family/index.m3u8
+#EXTINF:-1,MM1(channel)
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
+#EXTINF:-1,MM2(channel)
+https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:4984fdb7-86ac-4214-8572-98a4d63aa369_service/playlist.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 1 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2236.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 2 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2237.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 3 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2238.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 4 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2239.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 5 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2240.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 6 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2241.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 7 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2242.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 8 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2243.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 9 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2244.m3u8
+#EXTINF:-1,|B HD| beIN SPORTS 10 HD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2245.m3u8
+#EXTINF:-1,|B H265| beIN 1 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25632.m3u8
+#EXTINF:-1,|B H265| beIN 2 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25631.m3u8
+#EXTINF:-1,|B H265| beIN 3 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25630.m3u8
+#EXTINF:-1,|B H265| beIN 4 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25629.m3u8
+#EXTINF:-1,|B H265| beIN 5 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25628.m3u8
+#EXTINF:-1,|B H265| beIN 6 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25627.m3u8
+#EXTINF:-1,|B H265| beIN 7 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25626.m3u8
+#EXTINF:-1,|B H265| beIN 8 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25625.m3u8
+#EXTINF:-1,|B H265| beIN 9 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25624.m3u8
+#EXTINF:-1,|B H265| beIN 10 H265
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25623.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 1 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2247.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 2 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2248.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 3 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2249.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 4 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2250.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 5 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2251.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 6 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2252.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 7 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2253.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 8 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2254.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 9 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2255.m3u8
+#EXTINF:-1,|B SD| beIN SPORTS 10 SD
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2256.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 1 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2258.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 2 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2259.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 3 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2260.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 4 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2261.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 5 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2262.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 6 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2263.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 7 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2264.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 8 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2265.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 9 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2266.m3u8
+#EXTINF:-1,|B Low| beIN SPORTS 10 Low
+http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/2267.m3u8
+#EXTINF:0,BEIN SPORT 1 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200610
+#EXTINF:0,BEIN SPORT 1 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20061
+#EXTINF:0,BEIN SPORT 2 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200620
+#EXTINF:0,BEIN SPORT 2 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20062
+#EXTINF:0,BEIN SPORT 3 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200630
+#EXTINF:0,BEIN SPORT 3 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20063
+#EXTINF:0,BEIN SPORT 4 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200640
+#EXTINF:0,BEIN SPORT 4 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20064
+#EXTINF:0,BEIN SPORT 5 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200650
+#EXTINF:0,BEIN SPORT 5 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20065
+#EXTINF:0,BEIN SPORT 6 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200660
+#EXTINF:0,BEIN SPORT 6 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20066
+#EXTINF:0,BEIN SPORT 7 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200670
+#EXTINF:0,BEIN SPORT 7 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20067
+#EXTINF:0,BEIN SPORT 8 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200680
+#EXTINF:0,BEIN SPORT 8 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20068
+#EXTINF:0,BEIN SPORT 9 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/200690
+#EXTINF:0,BEIN SPORT 9 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20069
+#EXTINF:0,BEIN SPORT 1 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/2006100
+#EXTINF:0,BEIN SPORT 10 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/20070
+#EXTINF:0,BEIN SPORT 11 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146283
+#EXTINF:0,BEIN SPORT 11 SD
+http://local.teledunet.com:25461/tdn2020/tdn2020/51445
+#EXTINF:0,BEIN SPORT 1 HD LIGA
+http://local.teledunet.com:25461/tdn2020/tdn2020/51446
+#EXTINF:0,BEIN SPORT 1 HD TEKRAR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146328
+#EXTINF:0,BEIN SPORT 2 HD TEKRAR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146330
+#EXTINF:0,BEIN SPORT 3 HD TEKRAR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146332
+#EXTINF:0,BEIN SPORT 4 HD TEKRAR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146334
+#EXTINF:0,BEIN SPORT 1 HD
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146325
+#EXTINF:0,BEIN SERIES 1
+http://local.teledunet.com:25461/tdn2020/tdn2020/1014614
+#EXTINF:0,BEIN SERIES 2
+http://local.teledunet.com:25461/tdn2020/tdn2020/10147619
+#EXTINF:0,BEIN BARAEM
+http://local.teledunet.com:25461/tdn2020/tdn2020/101544
+#EXTINF:0,BEIN GOURMET
+http://local.teledunet.com:25461/tdn2020/tdn2020/10147412
+#EXTINF:0,BEIN FATAFEAT
+http://local.teledunet.com:25461/tdn2020/tdn2020/101473
+#EXTINF:0,BEIN MOVIES Premiere
+http://local.teledunet.com:25461/tdn2020/tdn2020/102249
+#EXTINF:0,BEIN MOVIES Actions
+http://local.teledunet.com:25461/tdn2020/tdn2020/10084
+#EXTINF:0,BEIN MOVIES Drama
+http://local.teledunet.com:25461/tdn2020/tdn2020/10085
+#EXTINF:0,BEIN MOVIES Family
+http://local.teledunet.com:25461/tdn2020/tdn2020/10086
+#EXTINF:0,BEIN MOVIES ACTION 1 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146410
+#EXTINF:0,BEIN MOVIE PREMIER TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146411
+#EXTINF:0,BEIN MOVIE TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146412
+#EXTINF:0,BEIN MOVIES ACTION 2 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146413
+#EXTINF:0,BEIN MOVIES GOLD TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146416
+#EXTINF:0,BEIN MOVIES STARS TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146417
+#EXTINF:0,BEIN MOVIES PREMIER 2 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146418
+#EXTINF:0,BEIN SERIES DRAMA TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146436
+#EXTINF:0,BEIN SERIES SCI-FI TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146437
+#EXTINF:0,BEIN MOVIES FAMILY TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146431
+#EXTINF:0,BEIN BOX OFFICE 1 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146445
+#EXTINF:0,BEIN BOX OFFICE 2 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146446
+#EXTINF:0,BEIN BOX OFFICE 3 TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146447
+#EXTINF:0,BEIN SERIES COMEDY TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146449
+#EXTINF:0,BEIN SERIES VICE TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146450
+#EXTINF:0,BEIN IZ TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146466
+#EXTINF:0,BEIN SPORT HD MATCH TIME TABLE TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146350
+#EXTINF:0,BEIN SPORT HD MATCH TIME TABLE TR
+http://local.teledunet.com:25461/tdn2020/tdn2020/10146352
+#EXTINF:0,FOX SPORTS 1
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28675?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:0,FOX SPORTS 2
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28674?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:0,FOX SPORTS 3
+http://62.210.127.217:8080/WdJsemMHzV/vuSWRd5Vjx/28673?play_token=pC1Dfx6rU7&token=QhVcUhcJRggXUFQABARVBFUEUgBUUQYFVFIBBV9aWlcMDwNWVABTAgFGGURBEkJRAFtpWgVEXlBWVgBUSkAXElxFa1oAQ14QB1EGXgBVEhhDQl9eBEReUlBdAFlVW1NXCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,Sport.TV HD 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport.TV HD 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:0,Premier Football HD 1
+http://203.150.107.30:8081/tested2iptv/core101/playlist.m3u8
+#EXTINF:0,Premier Football HD 2
+http://203.150.107.30:8081/tested2iptv/core102/playlist.m3u8
+#EXTINF:0,Premier Football HD 3
+http://203.150.107.30:8081/tested2iptv/core103/playlist.m3u8
+#EXTINF:0,Premier Football HD 4
+http://203.150.107.30:8081/tested2iptv/core104/playlist.m3u8
+#EXTINF:0,TrueSport HD 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:0,TrueSport HD 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:0,TrueSport 2
+https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:0,TrueSport 5
+https://www.livedoomovies.com//02_sport5_480p/chunklist.m3u8
+#EXTINF:0,TrueSport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:0,TrueSport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:0,Fox Sport 1
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:0,Fox Sport 2 
+https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:0,FOX Sport 3 
+https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:0,Bein Sports 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:0,Bein Sports 2 
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+#EXTINF:0,BT SPORT 1 HD
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:0,BT SPORT 2 HD
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:0, beINSport 1 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/48
+#EXTINF:0, beINSport 2 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/44
+#EXTINF:0, beINSport 3 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/40
+#EXTINF:0, beINSport 4 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/36
+#EXTINF:0, beINSport 5 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/32
+#EXTINF:0, beINSport 6 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/28
+#EXTINF:0, beINSport 7 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/24
+#EXTINF:0, beINSport 8 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/20
+#EXTINF:0, beINSport 9 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/15
+#EXTINF:0, beINSport 10 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/12
+#EXTINF:0, beINSport 11 
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/9
+#EXTINF:0, beINSport 12
+http://195.154.156.28:80/wXQcdtDuYt/zQFbKU48fL/6
+#EXTINF:0,EUROSPORTS 1
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/871
+#EXTINF:0,EUROSPORTS 2
+http://cdn1.stbconnect.com:25461/SFRa5oBeKo/l34i9fX1MI/870
+#EXTINF:0,EUROSPORT 4K-1
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
+#EXTINF:0,EUROSPORT 4K-2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200&checkedby
+#EXTINF:0,EUROSPORT 4K-3
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800&checkedby
+#EXTINF:0,EUROSPORT 4K-4
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400&checkedby
+#EXTINF:0,EUROSPORT 4K-5
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000&checkedby
+#EXTINF:0,EUROSPORT 4K-6
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600&checkedby
+#EXTINF:0,EUROSPORT 4K-7
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200&checkedby
+#EXTINF:0,EUROSPORT 4K-8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800&checkedby
+#EXTINF:0,EUROSPORT 4K-9
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400&checkedby
+#EXTINF:0,EUROSPORT 4K-10
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000&checkedby
+#EXTINF:0,EUROSPORT 4K-11
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600&checkedby
+#EXTINF:0,EUROSPORT 4K-12
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200&checkedby
+#EXTINF:0,EUROSPORT 4K-13
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800&checkedby
+#EXTINF:0,EUROSPORT 4K-14
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400&checkedby
+#EXTINF:0,EUROSPORT 4K-15
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000&checkedby
+#EXTINF:0,EUROSPORT 4K-16
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600&checkedby
+#EXTINF:0,EUROSPORT 4K-17
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200&checkedby
+#EXTINF:0,EUROSPORT 4K-18
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800&checkedby
+#EXTINF:0,EUROSPORT 4K-19
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400&checkedby
+#EXTINF:0,EUROSPORT 4K-20
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000&checkedby
+#EXTINF:0,EUROSPORT 4K-21
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600&checkedby
+#EXTINF:0,EUROSPORT 4K-22
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200&checkedby
+#EXTINF:0,EUROSPORT 4K-23
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800&checkedby
+#EXTINF:0,EUROSPORT 4K-24
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400&checkedby
+#EXTINF:0,EUROSPORT 4K-25
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000&checkedby
+#EXTINF:0,EUROSPORT 4K-26
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600&checkedby
+#EXTINF:0,EUROSPORT 4K-27
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200&checkedby
+#EXTINF:0,EUROSPORT 4K-28
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800&checkedby
+#EXTINF:0,EUROSPORT 4K-29
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400&checkedby
+#EXTINF:0,EUROSPORT 4K-30
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000&checkedby
+#EXTINF:0,EUROSPORT 4K-31
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600&checkedby
+#EXTINF:0,EUROSPORT 4K-32
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200&checkedby
+#EXTINF:0,EUROSPORT 4K-33
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800&checkedby
+#EXTINF:0,EUROSPORT 4K-34
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400&checkedby
+#EXTINF:0,EUROSPORT 4K-35
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000&checkedby
+#EXTINF:0,EUROSPORT 4K-36
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600&checkedby
+#EXTINF:0,EUROSPORT 4K-37
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200&checkedby
+#EXTINF:0,EUROSPORT 4K-38
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800&checkedby
+#EXTINF:0,EUROSPORT 4K-39
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400&checkedby
+#EXTINF:0,EUROSPORT 4K-40
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000&checkedby
+#EXTINF:0,EUROSPORT 4K-41
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600&checkedby
+#EXTINF:-1,CartoonNetwork
+https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
+#EXTINF:-1,KIDS CARTOON AR
+http://shamsi.xyz:25461/live/free/free/301.m3u8
+#EXTINF:-1,KIDS MAJID TV
+http://shamsi.xyz:25461/live/free/free/304.m3u8
+#EXTINF:-1,KIDS MBC 3
+http://shamsi.xyz:25461/live/free/free/302.m3u8
+#EXTINF:-1,KIDS Rotana Kids
+http://shamsi.xyz:25461/live/free/free/307.m3u8
+#EXTINF:-1,KIDS Spacetoon
+http://shamsi.xyz:25461/live/free/free/303.m3u8
+#EXTINF:-1,KIDS TRT Cocuk
+http://shamsi.xyz:25461/live/free/free/309.m3u8
+#EXTINF:-1,MARAH KG
+http://shamsi.xyz:25461/live/free/free/513.m3u8
+#EXTINF:-1,MARAH TV
+http://shamsi.xyz:25461/live/free/free/512.m3u8
+#EXTINF:-1,MASHA TV
+http://shamsi.xyz:25461/live/free/free/41.m3u8
